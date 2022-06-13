@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lisa-maxwell
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning responsive web design and game design
+- 🌱 I’m currently learning responsive web design, game design, and automated testing
 - 💞️ I’m looking to collaborate on idle game makers
 - 📫 How to reach me @_lisa_maxwell or https://www.lisamaxwell.dev/
 
